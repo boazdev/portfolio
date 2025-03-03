@@ -8,3 +8,4 @@ python manage.py runserver
 admin
 boazs16@gmail.com
 Veg....!!
+
